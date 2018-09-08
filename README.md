@@ -1,4 +1,4 @@
-# devs-culture
+# devsculture.com
 
 We are starting the final stretch of the cohort. This means we are starting to focus on our final projects. 
 
