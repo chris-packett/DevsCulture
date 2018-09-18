@@ -4,7 +4,7 @@
     <!-- Sidebar -->
     <nav id="sidebar">
         <div class="sidebar-header">
-            <h3>DevsCulture Sidebar</h3>
+            <img src="./assets/logo.png"> 
         </div>
 
         <ul class="list-unstyled components">
@@ -117,6 +117,11 @@ body {
     background: #fafafa;
 }
 
+img {
+  width: 12em;
+  height: auto;
+}
+
 a, a:hover, a:focus {
     color: inherit;
     text-decoration: none;
@@ -190,12 +195,9 @@ a[data-toggle="collapse"] {
     transform: translateY(-50%);
 }
 
-.button {
-  margin: 10px;
-}
-
 .btn-info {
     color: #fff;
+    margin: 10px 10px 10px 0px;
     background-color: #49C7D0;
     border-color: #49C7D0;
 }
