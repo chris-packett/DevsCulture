@@ -188,5 +188,15 @@ a[data-toggle="collapse"] {
     transform: translateY(-50%);
 }
 
+.button {
+  margin: 10px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #49C7D0;
+    border-color: #49C7D0;
+}
+
 
 </style>
