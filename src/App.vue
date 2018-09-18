@@ -100,11 +100,10 @@ export default {
 };
 
 $(document).ready(function () {
-
     $('#sidebarCollapse').on('click', function () {
         $('#sidebar').toggleClass('active');
+        $(this).toggleClass('active');
     });
-
 });
 
 </script>
@@ -127,6 +126,7 @@ a, a:hover, a:focus {
 .wrapper {
     display: flex;
     align-items: stretch;
+    perspective: 1500px; 
 }
 
 #sidebar {
@@ -135,11 +135,13 @@ a, a:hover, a:focus {
     min-height: 100vh;
     background: #1D1E19;
     color: #fff;
-    transition: all 0.3s;
+    transition: all 0.3s cubic-bezier(0.945, 0.020, 0.270, 0.665);
+    transform-origin: center left;
 }
 
 #sidebar.active {
     margin-left: -250px;
+    transform: rotateY(100deg);
 }
 
 #sidebar .sidebar-header {
@@ -199,11 +201,15 @@ a[data-toggle="collapse"] {
 }
 
 @media (max-width: 768px) {
+    
     #sidebar {
         margin-left: -250px;
+        transform: rotateY(100deg);
     }
+
     #sidebar.active {
         margin-left: 0;
+        transform: none;
     }
 }
 
