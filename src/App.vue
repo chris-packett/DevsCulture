@@ -198,5 +198,13 @@ a[data-toggle="collapse"] {
     border-color: #49C7D0;
 }
 
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+}
 
 </style>
