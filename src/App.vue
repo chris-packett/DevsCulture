@@ -83,7 +83,41 @@
 
     <!-- Page Content -->
     <div id="content">
-        <!-- We'll fill this with dummy content -->
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1067" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1061" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1057" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1052" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1043" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1055" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1036" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1037" />
+      </div>
+
+      <div class="tiler">
+        <img src="https://picsum.photos/1000/600?image=1039" />
+      </div>
     </div>
 
 </div>       
@@ -120,6 +154,21 @@ body {
 img {
   width: 12em;
   height: auto;
+}
+
+.tiler {
+  display: inline-block;
+  cursor: pointer;
+  visibility: hidden;
+  width: 33.3%;
+  margin: auto;
+}
+
+.tiler img { 
+  display: block;  
+  margin: auto; 
+  max-width: 100%;
+  visibility: visible;
 }
 
 a, a:hover, a:focus {
