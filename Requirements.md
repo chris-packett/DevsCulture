@@ -2,6 +2,12 @@
 
 We will write here our step by step process to build the website.
 
+## Pre-Planning
+
+- [ ] Requirements
+- [ ] Moqups
+- [ ] ERD
+
 ## Front-End
 
 * [ ] Basic HTML & CSS
