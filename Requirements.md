@@ -36,4 +36,13 @@ We will write here our step by step process to build the website.
 
 * [ ] Database
 
-    - [ ] 
+    - [ ] Create Tables
+        - [ ] Categories (ID, Name)
+        - [ ] SubCategories (ID, Name, Brief Description, Detailed Description, URL, Image Link, Category ID, Parent ID)
+
+### Future
+
+- [ ] Add Log In function to Apply Local Storage to Favorite Resources
+- [ ] Add Genre or Type and Author of Resource to make it Searchable
+- [ ] Add Filtering Capacity to the Website
+- [ ] Add Free or Cost to Products to improve search capacity.
