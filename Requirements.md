@@ -2,7 +2,7 @@
 
 We will write here our step by step process to build the website.
 
-## Front End
+## Front-End
 
 * [ ] Basic HTML & CSS
 
@@ -32,13 +32,15 @@ We will write here our step by step process to build the website.
         - [ ] Contact Us Page
         - [ ] Sponsors Page (This might get deleted)
 
-### Back End
+### Back-End
 
 * [ ] Database
 
     - [ ] Create Tables
         - [ ] Categories (ID, Name)
         - [ ] SubCategories (ID, Name, Brief Description, Detailed Description, URL, Image Link, Category ID, Parent ID)
+
+    - [ ] Connect Back-End and Front-End
 
 ### Future
 
