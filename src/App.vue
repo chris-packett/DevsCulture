@@ -4,7 +4,7 @@
     <!-- Sidebar -->
     <nav id="sidebar">
         <div class="sidebar-header">
-            <img src="./assets/logo.png"> 
+            <img src="./assets/logo.png" class="logo"> 
         </div>
 
         <ul class="list-unstyled components">
@@ -70,7 +70,7 @@
         </ul>
     </nav>
 
-    <div id="content">
+    <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <button type="button" id="sidebarCollapse" class="btn btn-info">
@@ -151,7 +151,12 @@ body {
     background: #fafafa;
 }
 
-img {
+#content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
   width: 12em;
   height: auto;
 }
@@ -160,7 +165,7 @@ img {
   display: inline-block;
   cursor: pointer;
   visibility: hidden;
-  width: 33.3%;
+  width: 32%;
   margin: auto;
 }
 
