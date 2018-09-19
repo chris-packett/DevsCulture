@@ -5,7 +5,7 @@ We will write here our step by step process to build the website.
 ## Pre-Planning
 
 - [ ] Requirements
-- [ ] Moqups
+- [ ] Wireframe
 - [ ] ERD
 
 ## Front-End
@@ -21,7 +21,7 @@ We will write here our step by step process to build the website.
         - [ ] Link SideBar Items
 
 
-    - [ ] Home Page Body
+    - [ ] Home Page Body (Category Page)
         - [ ] Toggle SideBar On/Off 
         - [ ] Log In Placeholder
         - [ ] Basic Images Placeholder
@@ -31,7 +31,8 @@ We will write here our step by step process to build the website.
         - [ ] Link Basic Images
 
     - [ ] Extra Pages
-        - [ ] Category Page
+        - [ ] SubCategory Page
+        - [ ] Resources Page
         - [ ] Add a Resource Page
         - [ ] About Page
         - [ ] Blogs Page (This might get deleted)
@@ -44,12 +45,14 @@ We will write here our step by step process to build the website.
 
     - [ ] Create Tables
         - [ ] Categories (ID, Name)
-        - [ ] SubCategories (ID, Name, Brief Description, Detailed Description, URL, Image Link, Category ID, Parent ID)
+        - [ ] SubCategories (ID, Name, Brief Description, URL, Image Link, Category ID)
+        - [ ] Resources (ID, Name, Brief Description, Detailed Description, URL, Image Link, Subcategories ID)
 
     - [ ] Connect Back-End and Front-End
 
 ### Future
 
+- [ ] Add a ParentID to the Subcategories Table for Nested Subcategories
 - [ ] Add Log In function to Apply Local Storage to Favorite Resources
 - [ ] Add Genre or Type and Author of Resource to make it Searchable
 - [ ] Add Filtering Capacity to the Website

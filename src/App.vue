@@ -82,7 +82,7 @@
     </div>
 
     <!-- Page Content -->
-    <div id="content">
+    <!-- <div id="content">
       <div class="tiler">
         <img src="https://picsum.photos/1000/600?image=1067" />
       </div>
@@ -118,7 +118,7 @@
       <div class="tiler">
         <img src="https://picsum.photos/1000/600?image=1039" />
       </div>
-    </div>
+    </div> -->
 
 </div>       
 </template>
