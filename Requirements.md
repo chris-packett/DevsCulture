@@ -2,9 +2,9 @@
 
 ## Front End
 
-* [ ] Basic HTML & CSS
+### [ ] Basic HTML & CSS
 
-    - [ ] SideBar
+####    - [ ] SideBar
         - [ ] Basic Sidebar
         - [ ] SideBar Animation
         - [ ] Responsiveness
@@ -13,7 +13,7 @@
         - [ ] Link SideBar Items
 
 
-    - [ ] Home Page Body
+####    - [ ] Home Page Body
         - [ ] Toggle SideBar On/Off 
         - [ ] Log In Placeholder
         - [ ] Basic Images Placeholder
@@ -22,13 +22,13 @@
         - [ ] Add Splitting SCSS to Basic Images
         - [ ] Link Basic Images
 
-
-    - [ ] Category Page
-    - [ ] Add a Resource Page
-    - [ ] About Page
-    - [ ] Blogs Page (This might get deleted)
-    - [ ] Contact Us Page
-    - [ ] Sponsors Page (This might get deleted)
+####    - [ ] Extra Pages
+        - [ ] Category Page
+        - [ ] Add a Resource Page
+        - [ ] About Page
+        - [ ] Blogs Page (This might get deleted)
+        - [ ] Contact Us Page
+        - [ ] Sponsors Page (This might get deleted)
 
 ## Back End
 
