@@ -6,7 +6,30 @@
 
     - [ ] SideBar
         - [ ] Basic Sidebar
-        - [ ] Toggle On/Off
         - [ ] SideBar Animation
         - [ ] Responsiveness
+        - [ ] Add Search Bar
+        - [ ] Add Add Form Link
+        - [ ] Link SideBar Items
 
+
+    - [ ] Home Page Body
+        - [ ] Toggle SideBar On/Off 
+        - [ ] Log In Placeholder
+        - [ ] Basic Images Placeholder
+        - [ ] Flex-Wrap Images
+        - [ ] Make Home Page Responsive
+        - [ ] Add Splitting SCSS to Basic Images
+        - [ ] Link Basic Images
+
+
+    - [ ] Category Page
+    - [ ] Add a Resource Page
+    - [ ] About Page
+    - [ ] Blogs Page (This might get deleted)
+    - [ ] Contact Us Page
+    - [ ] Sponsors Page (This might get deleted)
+
+## Back End
+
+* [ ]  
