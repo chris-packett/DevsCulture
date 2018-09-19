@@ -1,5 +1,7 @@
 # Devs Culture Website Planning
 
+We will write here our step by step process to build the website.
+
 ## Front End
 
 * [ ] Basic HTML & CSS
@@ -30,6 +32,8 @@
         - [ ] Contact Us Page
         - [ ] Sponsors Page (This might get deleted)
 
-## Back End
+### Back End
 
-* [ ]  
+* [ ] Database
+
+    - [ ] 
