@@ -22,13 +22,13 @@
         - [ ] Add Splitting SCSS to Basic Images
         - [ ] Link Basic Images
 
-* [ ]
-    - [ ] Category Page
-    - [ ] Add a Resource Page
-    - [ ] About Page
-    - [ ] Blogs Page (This might get deleted)
-    - [ ] Contact Us Page
-    - [ ] Sponsors Page (This might get deleted)
+    - [ ] Extra Pages
+        - [ ] Category Page
+        - [ ] Add a Resource Page
+        - [ ] About Page
+        - [ ] Blogs Page (This might get deleted)
+        - [ ] Contact Us Page
+        - [ ] Sponsors Page (This might get deleted)
 
 ## Back End
 
