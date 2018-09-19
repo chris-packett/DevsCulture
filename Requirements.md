@@ -2,9 +2,9 @@
 
 ## Front End
 
-### [ ] Basic HTML & CSS
+*###* [ ] Basic HTML & CSS
 
-####    - [ ] SideBar
+    - [ ] SideBar
         - [ ] Basic Sidebar
         - [ ] SideBar Animation
         - [ ] Responsiveness
